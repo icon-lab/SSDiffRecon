@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
 </p>
 
-<h3 align="center">Self-Supervised MRI Reconstruction with Unrolled Diffusion Models</h3>
+<h3 align="center">Diffusion Modeling via Unrolled Transformers for Self-Supervised MRI Reconstruction</h3>
 
 <div align="center">
 
@@ -12,11 +12,6 @@
 </div>
 
 ---
-
-<p align="center"> Official Tensorflow implementation of SSDiffRecon (MICCAI2023)
-    <br> 
-</p>
-
 
 ## About <a name = "about"></a>
 
@@ -71,17 +66,6 @@ python run_fastmri.py --eval --results_dir ./results/fastmri_trial1 --beta_start
 
 Trained model weights for both datasets can be downloaded from this link: https://drive.google.com/drive/folders/1ApxzBWqyD7Km0vAm-pILCyN6nvlsfjSg?usp=drive_link
 
-## Citation 
-
-You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
-```
-@article{korkmaz2023self,
-  title={Self-Supervised MRI Reconstruction with Unrolled Diffusion Models},
-  author={Korkmaz, Yilmaz and Cukur, Tolga and Patel, Vishal M.},
-  journal={arXiv preprint arXiv:2306.16654},
-  year={2023}
-}
-```
 
 ## Acknowledgements
 
