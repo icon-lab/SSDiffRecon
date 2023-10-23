@@ -4,13 +4,6 @@
 
 <h3 align="center">Diffusion Modeling via Unrolled Transformers for Self-Supervised MRI Reconstruction</h3>
 
-<div align="center">
-
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
-</div>
-
 ---
 
 ## About <a name = "about"></a>
